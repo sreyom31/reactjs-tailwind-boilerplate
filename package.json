@@ -1,7 +1,20 @@
 {
   "name": "reactjs-tailwind-boilerplate",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "A boilerplate for building production-ready React app written in Typescript and TailwindCSS",
+  "main": "index.tsx",
+  "repository": "https://github.com/sreyom31/reactjs-tailwind-boilerplate.git",
+  "author": "sreyom31 <sreyom31@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sreyom31/reactjs-tailwind-boilerplate/issues"
+  },
+  "keywords": [
+    "reactjs",
+    "tailwindcss",
+    "typescript"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
